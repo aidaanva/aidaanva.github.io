@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Aida Andrades Valtueña"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Junior Principal Investigator in Ancient Microbial Genomics"
   location         : "Barcelona Spain"
   employer         : "Institute of Evolutionary Biology, Barcelona, Spain"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
