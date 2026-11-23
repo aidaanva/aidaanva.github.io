@@ -8,4 +8,4 @@ date: 2020-09-01
 location: "Jena, Germany"
 ---
 
-I taught an introductory course on commandline and bash in the International MPI for the Science of Human History Research School. Together with (James Fellows Yates)[https://github.com/jfy133] and (Thiseas C. Lamnidis)[https://github.com/TCLamnidis/], we worked on making the material available in the (BareBonesBash)[https://barebonesbash.github.io/#] website. 
+I taught an introductory course on commandline and bash in the International MPI for the Science of Human History Research School. Together with [James Fellows Yates](https://github.com/jfy133) and [Thiseas C. Lamnidis](https://github.com/TCLamnidis/), we worked on making the material available in the [BareBonesBash](https://barebonesbash.github.io/#) website. 
