@@ -2,7 +2,7 @@
 title: "Workshop: BareBonesBash"
 collection: teaching
 type: "Undergraduate course"
-permalink: [BareBonesBash website](https://barebonesbash.github.io/#/)
+permalink: https://barebonesbash.github.io/#/
 venue: "International MPI for the Science of Human History Research School"
 date: 2020
 location: "Jena, Germany"
