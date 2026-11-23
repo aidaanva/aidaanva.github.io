@@ -1,7 +1,7 @@
 ---
 title: "Workshop: BareBonesBash"
 collection: teaching
-type: "Undergraduate course"
+type: "Workshop"
 permalink: /teaching/2020-barebonesbash-1
 venue: "International MPI for the Science of Human History Research School"
 date: 2020
