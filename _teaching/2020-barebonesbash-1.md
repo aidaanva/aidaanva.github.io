@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2020-barebonesbash-1
 venue: "International MPI for the Science of Human History Research School"
-date: 2020
+date: 2020-09-01
 location: "Jena, Germany"
 ---
 
