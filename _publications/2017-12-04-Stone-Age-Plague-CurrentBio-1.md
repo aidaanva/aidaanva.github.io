@@ -3,7 +3,7 @@ title: "The Stone Age Plague and Its Persistence in Eurasia"
 collection: publications
 category: manuscripts
 permalink: /publication/2017-12-04-Stone-Age-Plague-CurrentBio-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'First Late Neolithic and Early Bronze Age <i>Yersinia pestis</i> genomes from Europe show that this pathogen was widespread in Eurasia during that time.'
 date: 2017-12-04
 venue: 'Current Biology'
 citation: 'Aida Andrades Valtueña, Alissa Mittnik, Felix M. Key, Wolfgang Haak, Raili Allmäe, Andrej Belinskij, Mantas Daubaras, Michal Feldman, Rimantas Jankauskas, Ivor Janković, Ken Massy, Mario Novak, Saskia Pfrengle, Sabine Reinhold, Mario Šlaus, Maria A. Spyrou, Anna Szécsényi-Nagy, Mari Tõrv, Svend Hansen, Kirsten I. Bos, Philipp W. Stockhammer, Alexander Herbig, Johannes Krause: The Stone Age Plague and Its Persistence in Eurasia. Current Biology 12/2017; 27(23), DOI: 10.1016/j.cub.2017.10.025'

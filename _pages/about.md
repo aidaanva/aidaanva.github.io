@@ -7,4 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This is the home page for the Andrades Valtueña lab at the [CISC](http://www.csic.es/) [Institute of Evolutionary Biology](https://www.ibe.upf-csic.es/) (IBE) in Barcelona, Spain.
+This is the home page for the Andrades Valtueña lab at the [Institute of Evolutionary Biology](https://www.ibe.upf-csic.es/) (IBE, [CSIC](http://www.csic.es/)-[UPF](https://www.upf.edu/)) in Barcelona, Spain.
+
+The research focus of our lab 
