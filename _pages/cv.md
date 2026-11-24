@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Genetics, Friedrich-Schiller-Universität, DE, 2021
+* M.Sc. in Archaeological Sciences (specialisation Palaeogenetics), Eberhard-Karls-Universität Tübingen, DE, 2015
+* B.Sc. in Genetics, Universitat Autònoma de Barcelona, ES, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug 2026 - Present: Junior PI, Institute for Evolutionary Biology (CSIC-UPF), Barcelona, ES
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jan 2021 - Jul 2026:	Postdoc, Max Planck Institute for Evolutionary Anthropology, Department of Archaeogenetics, Leipzig, DE
+
+* Oct 2015 - Dec 2020:	PhD Student, Max Planck Institute for the Science of Human History, Department of Archaeogenetics, Jena, DE
+
+* May 2015 - Sep 2015:	HiWi, Max Planck Institute for the Science of Human History, Department of Archaeogenetics, Jena, DE
+
+* Nov 2014 - May 2015:	Palaeogenetics HiWi, Eberhard Karls Universität Tubingen, Department of Geosciences, Tübingen, DE
+
+* Sep 2012- May 2013:	Laboratory Assistant, University at Buffalo, Department of Biological Sciences, SUNY, Buffalo, NY, USA
 
 Publications
 ======
