@@ -24,3 +24,8 @@ package-lock.json
 
 # Ignore the main.min.js since it should be built as part of jekyll-build.yml
 assets/js/main.min.js
+
+# Ignore example publications, talks, and other content
+_publications/2015-10-01-paper-title-number-3.md
+_talks/2012-03-01-talk-1.md
+_talks/2013-03-01-tutorial-1.md
