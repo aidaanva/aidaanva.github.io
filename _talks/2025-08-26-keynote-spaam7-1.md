@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2025-08-26-keynote-spaam7-1
 venue: "Department of Life Sciences and Systems Biology, University of Turin"
-date: 2012-03-01
+date: 2025-08-26
 location: "Torino, Italy"
 ---
 
