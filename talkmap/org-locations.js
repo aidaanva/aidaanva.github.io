@@ -1,12 +1,7 @@
 var addressPoints = [
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
-  ],
-  [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7879363,
-    -122.4075201
+    "SPAAM Community: the past, the present and the future<br />Department of Life Sciences and Systems Biology, University of Turin; Torino, Italy",
+    45.0677551,
+    7.6824892
   ]
 ];
